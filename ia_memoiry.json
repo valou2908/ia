@@ -1,0 +1,67 @@
+{
+    "salut": [
+        "Salut, ça va ?",
+        "Salut, si tu as besoin de moi, parle-moi",
+        "Salut",
+        "Bonjour",
+        "Hello",
+        "Hola",
+        "Konnichiwa"
+    ],
+    "Bonjour": [
+        "Salut, ça va ?",
+        "Salut, si tu as besoin de moi, parle-moi",
+        "Salut",
+        "Bonjour",
+        "Hello",
+        "Hola",
+        "Konnichiwa"
+    ],
+    "Hello": [
+        "Salut, ça va ?",
+        "Salut, si tu as besoin de moi, parle-moi",
+        "Salut",
+        "Bonjour",
+        "Hello",
+        "Hola",
+        "Konnichiwa"
+    ],
+    "Hola": [
+        "Salut, ça va ?",
+        "Salut, si tu as besoin de moi, parle-moi",
+        "Salut",
+        "Bonjour",
+        "Hello",
+        "Hola",
+        "Konnichiwa"
+    ],
+    "Konnichiwa": [
+        "Salut, ça va ?",
+        "Salut, si tu as besoin de moi, parle-moi",
+        "Salut",
+        "Bonjour",
+        "Hello",
+        "Hola",
+        "Konnichiwa"
+    ],
+    "Yo": [
+        "Yo mec, ça va ?",
+        "Yo, si tu as besoin de moi, parle-moi",
+        "Yo"
+    ],
+    "konichiwa": [
+        "je ne comprends pas"
+    ],
+    "": [
+        ""
+    ],
+    "quel est le nom de mon frère": [
+        "Le nom de ton frère est hugo"
+    ],
+    "ma famille est composée de combien de personnes": [
+        "ta fammille est composer de 4 personnes"
+    ],
+    "ma famille est composé de combien de personnes": [
+        "ta famille est composée de 4 personnes"
+    ]
+}
